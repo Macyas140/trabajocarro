@@ -17,7 +17,7 @@ export default function Agregaritem() {
 
                 {/* Input centrado debajo del texto */}
                 {visible && (
-                    <div className="mt-4 flex justify-center">
+                    <div className=" flex justify-center">
                         <form>
                             <input
                                 type="text"
